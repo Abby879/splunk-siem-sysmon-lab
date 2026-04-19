@@ -1,0 +1,1 @@
+index=* host=WIN-SOC-LAB source="WinEventLog:Security" EventCode=4625

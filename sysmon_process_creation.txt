@@ -1,0 +1,1 @@
+index=* host=WIN-SOC-LAB source="WinEventLog:Microsoft-Windows-Sysmon/Operational" EventCode=1
